@@ -98,7 +98,7 @@ input {
   height: 2px;
   left: 0;
   bottom: -6px;
-  background-color: #969ee9;;
+  background-color: #b3b8da;
 }
 
 .list a:hover::after {
@@ -106,7 +106,7 @@ input {
   transition: 1s;
 }
 .list li a:hover{
-  color: #969ee9;
+  color: #b3b8da;
 }
 /* .............................section 1 ..........................*/
 
@@ -932,5 +932,5 @@ span {
 }
 
 .icons11 .fa-brands:hover {
-  background-color: #969ee9;;
+  background-color: #b3b8da;
 }
