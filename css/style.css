@@ -6,7 +6,7 @@
 
 body {
   position: relative;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ::selection {
@@ -105,9 +105,11 @@ input {
   width: 100%;
   transition: 1s;
 }
-.list li a:hover{
-  color: #b3b8da;
+
+.list li a:hover {
+  color: #9fa4c0;
 }
+
 /* .............................section 1 ..........................*/
 
 .sec1 {
@@ -223,7 +225,7 @@ h2 {
   position: absolute;
   border-radius: 8px;
   content: "";
-  background-color: rgb(33, 73, 109);
+  background-color: #4c5363;
   z-index: -5;
   opacity: 0.5;
 }
@@ -266,7 +268,7 @@ h2 {
 
 /* ----------------------------section 3--------------------------------------------- */
 .sec3 {
-  background-color: #adb5bd;
+  background-color: #c4c4ce;
 }
 
 .container3 {
@@ -316,7 +318,7 @@ h2 {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(51, 52, 56, 0.555);
+  background-color: rgba(58, 58, 59, 0.555);
   opacity: 0;
   visibility: hidden;
   transition: 0.5s;
@@ -392,7 +394,7 @@ h4 {
   width: 0;
   top: 0;
   left: 0;
-  background-color: rgb(33, 73, 109);
+  background-color: #4c5363;
   z-index: -3;
   opacity: 0.5;
 }
@@ -613,13 +615,13 @@ span {
 .div71 button {
   padding: 10px 15px;
   text-transform: capitalize;
-  border-radius: 8px;
-  border: 1px solid #234361;
+  border-radius: 10px;
+  border: 1px solid #5b6168;
   cursor: pointer;
 }
 
 .div71 button:hover {
-  background-color: #465e81;
+  background-color: #606369;
 }
 
 .div72 {
@@ -657,7 +659,8 @@ span {
   left: 0;
   content: "";
   border-radius: 10px;
-  background-color: rgb(33, 73, 109);
+  background-color: #4c5363;
+;
   z-index: -1;
   transition: 0.5s;
   opacity: 0.5;
@@ -718,6 +721,7 @@ span {
   font-size: 30px;
   margin-left: 20px;
   margin-top: 20px;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 .p {
@@ -738,7 +742,7 @@ span {
 .div10 {
   float: left;
   width: 30%;
-  background-color: #cbd6e6;
+  background-color: #c7cbd1;
   border-radius: 8px;
   text-align: center;
   padding: 20px 0;
@@ -818,7 +822,8 @@ span {
 }
 
 .div91 a .fa-solid {
-  color: #234361;
+  color: #4c5363;
+;
 }
 
 .icons9 a {
@@ -827,7 +832,7 @@ span {
   height: 40px;
   border: 50%;
   color: white;
-  background-color: #234361;
+  background-color: #4c5363;
   margin-left: auto;
   font-size: 20px;
 }
@@ -912,7 +917,6 @@ span {
   background-color: #e0e1dd;
   padding: 20px;
   text-transform: uppercase;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: bold;
 }
 
@@ -931,5 +935,5 @@ span {
 }
 
 .icons11 .fa-brands:hover {
-  background-color: #8f95b8;
+  background-color: #5c617c;
 }
