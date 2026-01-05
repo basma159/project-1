@@ -6,7 +6,6 @@
 
 body {
   position: relative;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ::selection {
@@ -21,6 +20,7 @@ body {
   position: fixed;
   z-index: 100;
   padding: 0 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .dropdown {
@@ -117,6 +117,7 @@ input {
   background-size: cover;
   background-position: center;
   background-image: url(../images/computer-2982270_1920.jpg);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .bk {
@@ -660,7 +661,7 @@ span {
   content: "";
   border-radius: 10px;
   background-color: #4c5363;
-;
+  ;
   z-index: -1;
   transition: 0.5s;
   opacity: 0.5;
@@ -721,7 +722,6 @@ span {
   font-size: 30px;
   margin-left: 20px;
   margin-top: 20px;
-  font-family:Arial, Helvetica, sans-serif;
 }
 
 .p {
@@ -823,7 +823,7 @@ span {
 
 .div91 a .fa-solid {
   color: #4c5363;
-;
+  ;
 }
 
 .icons9 a {
