@@ -391,6 +391,7 @@ h4 {
 
 .div4::after {
   position: absolute;
+  border-radius: 8px;
   content: "";
   height: 0;
   width: 0;
