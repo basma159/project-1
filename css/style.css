@@ -6,7 +6,7 @@
 
 body {
   position: relative;
-
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 ::selection {
@@ -734,7 +734,6 @@ span {
 }
 
 /* ------------------------------section9--------------------------- */
-
 .div91,
 .div10 {
   float: left;
@@ -932,5 +931,5 @@ span {
 }
 
 .icons11 .fa-brands:hover {
-  background-color: #b3b8da;
+  background-color: #8f95b8;
 }
